@@ -17,3 +17,20 @@ M104B Files:
 * FDMforPDEs.ipynb: notebook for notes on using the Finite Difference Method to solve the heat equation
 * HW2.ipynb - HW9.ipynb: notebooks used to complete homework assignments. topics within each assignment vary
 * internallib.py: python script with functions for the secand method (root finding), RK4 (ODE approximation), creating a tridiagonal matrix, and conjugate gradient method (solving systems of linear equations)
+
+M104C Files:
+* Bezier_Curve.ipynb: notes and scripts about creating Bezier curves
+* CP1.ipynb: final product for first class project. worked in a group to use least squares and other methods to deblur images
+* CP2.ipynb: contains notes and scripts from work on second class project. final results are in CP2_final.ipynb
+* CP2_final.ipynb: final product for second class project. worked in a group to use the fast fourier transform and discrete fourier transform to approximate solutions to PDEs
+* DFT.py: script containing function for the discrete fourier transform
+* Eigenvalues.ipynb: notes and scripts about using various methods to approximate eigenvalues
+* FloatingPoint.ipynb: notes and scripts about floating point representation of numbers in computers
+* HWO.ipynb - HW8.ipynb: notebooks used to complete homework assignments. topics within each assignment will vary
+* LS_Householder.ipynb: notes and scripts related to using Holderholder reflections to solve ill-conditioned least sqaures problems)
+* Least_Squares.ipynb: notes and scripts related to methods used for solving least squares problems
+* Shifting&Deflating.ipynb: notes and scripts related to using Hessenberg form, shifting, and deflating to solve QR-factorization problems
+* Trig_Interpolation.ipynb: notes and scripts related to trigonometric interpolation of points
+* fozzybear.jpg: photo used in CP1.ipynb
+* functions.py: script containing multiple functions related to QR factorization and least squares problems
+* testpictures.ipynb: scripts and notes from experimenting with photo augmentation related to CP1.ipynb
