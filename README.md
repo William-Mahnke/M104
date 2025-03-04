@@ -17,4 +17,3 @@ M104B Files:
 * FDMforPDEs.ipynb: notebook for notes on using the Finite Difference Method to solve the heat equation
 * HW2.ipynb - HW9.ipynb: notebooks used to complete homework assignments. topics within each assignment vary
 * internallib.py: python script with functions for the secand method (root finding), RK4 (ODE approximation), creating a tridiagonal matrix, and conjugate gradient method (solving systems of linear equations)
-* workshop.ipynb: 
